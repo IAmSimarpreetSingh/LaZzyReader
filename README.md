@@ -8,4 +8,4 @@ It's an python based GUI application that convert text into speech using the pyt
 3. tkinter : pip install python3-tk *or* sudo apt-get install python3-tk 
 4. pytube : https://pypi.org/project/pyttsx3/
 
-![YouTube Video Downloader](https://raw.githubusercontent.com/IAmSimarpreetSingh/YouTubeDownloader/main/YouTubeVideoDownloader.png)
+![YouTube Video Downloader](https://raw.githubusercontent.com/IAmSimarpreetSingh/LaZzyReader/main/LazZyReader.png)
